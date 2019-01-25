@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* #customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+} */
+
+/* #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+} */
+
+/* #customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+} */
+</style>
+</head>
+<body>
+
+<table id="galleryImage">
+  <tr>
+    <th>Project Name</th>
+    <th>Before</th>
+    <th>After</th>
+  </tr>
+  <tr>
+    <td>Project 1</td>  <!--insert name of project -->
+    <td><img src = "INSERTIMG.png" style = "height: 100px; width: 100px"></td> <!--insert before image--> 
+    <td><img src = "INSERTIMG.png" style = "height: 100px; width: 100px"></td> <!--insert after image-->
+  </tr>
+  <tr>
+    <td>Project 2</td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+  </tr>
+  <tr>
+    <td>Project 3</td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+  </tr>
+  <tr>
+    <td>Project 6</td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+    <td><img src="INSERTIMG.png" style="height:100px; width: 100px"></td>
+  </tr>
+  <tr>
+    <td>Video 1</td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/Y7AqzYaRi7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <!-- <td>UK</td> -->
+  </tr>
+  <tr>
+    <td>Video 2</td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/YoTY9Ol5GHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <!-- <td>Germany</td> -->
+  </tr>
+  <tr>
+    <td>Video 3</td>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YoTY9Ol5GHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!-- <td>Canada</td> -->
+  </tr>
+  <tr>
+    <td>video 5</td>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YoTY9Ol5GHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!-- <td>Italy</td> -->
+  </tr>
+  <tr>
+    <td>video 6</td>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YoTY9Ol5GHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!-- <td>UK</td> -->
+  </tr>
+  <tr>
+    <td>Video 8</td>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YoTY9Ol5GHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </td>
+    <!-- <td>France</td> -->
+  </tr>
+</table>
+</body>
+</html>  
