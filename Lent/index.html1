@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" href="AOB_CSS.css">
+<style>
+/* h1 {
+    color: #362101;
+    margin-left: 30px;
+    }
+p, ul {
+    font-size: 20px;
+    font-family: Arial;
+    margin-left: 35px;
+    margin-right: 25px;
+    }
+ul {
+    line-height: 1.8;
+    list-style-image: url('green-leaf-md.png');
+}
+p {
+    line-height: 1.5
+} */
+</style>
+</head>
+
+<body>
+<!-- *******HEADER/NAV **********-->
+
+<nav>
+
+      
+        <ul>
+            <li><a href="AboutUs.html">About Us &#9660;</a> 
+                <ul>
+                        <li><a href="AboutUs.html">Science</a>
+    
+                        </li>
+                    <li><a href="AboutUs.html">Process</a>
+    
+                    </li>
+                    <li><a href="AboutUs.html">Understanding</a>
+                        </li>
+                </ul>
+            </li>
+            <li><a href="#">Product &#9660;</a>
+    
+                <ul>
+                    <li><a href="#">Products 1</a>
+    
+                    </li>
+                    <li><a href="#">Products 2</a>
+    
+                    </li>
+                    <li><a href="#">Products 3</a>
+    
+                    </li>
+                    <li><a href="#">Products 4</a>
+    
+                    </li>
+                </ul>
+                <li><a href="#">Gallery &#9660;</a>
+    
+                    <ul>
+                        <li><a href="#">Gallery 1</a>
+        
+                        </li>
+                        <li><a href="#">Gallery 2</a>
+        
+                        </li>
+                        <li><a href="#">Gallery 3</a>
+        
+                        </li>
+                        <li><a href="#">Gallery 4</a>
+        
+                        </li>
+                    </ul>
+                    <li><a href="#">Partners &#9660;</a>
+    
+                        <ul>
+                            <li><a href="#">Partners 1</a>
+            
+                            </li>
+                            <li><a href="#">Partners 2</a>
+            
+                            </li>
+                            <li><a href="#">Partners 3</a>
+            
+                            </li>
+                            <li><a href="#">Partners 4</a>
+            
+                            </li>
+                        </ul>
+            
+
+                    <li><a href="#">Science &#9660;</a>
+    
+                        <ul>
+                            <li><a href="#">Science 1</a>
+    
+                             </li>
+                            <li><a href="#">Science 2</a>
+    
+                            </li>
+                            <li><a href="#">Science 3</a>
+    
+                                 </li>
+                            <li><a href="#">Science 4</a>
+    
+                         </li>
+                </ul>
+
+                <li><a href="#">Contact Us &#9660;</a>
+    
+                    <ul>
+                        <li><a href="#">Contact Us 1</a>
+
+                         </li>
+                        <li><a href="#">Contact Us 2</a>
+
+                        </li>
+                        <li><a href="#">Contact Us 3</a>
+
+                             </li>
+                        <li><a href="#">Constact 4</a>
+
+                     </li>
+            </ul>
+    </li>
+                <li><a href="index.html">Home</a></li>  
+        </ul>
+    </nav>
+
+
+<article>
+
+<!-- <div class = "my-container"></div> background of leaf -->
+<div class = "container"> <!--aligns text on image-->
+
+<!-- <img src = "microbe.jpg" style = "width: 100%; opacity: 0.7; border-radius: 50%;">
+    <div class = "centerIndexImage">Welcome to AO Bioremediation</div></div> -->
+    
+    <img src = "microbesV2.jpg" style = "height: 40em; width: 80%; border-radius: 10%">
+</div>
+
+<h3>Mine-Management Plus</h3> <iframe width="560" height="315" src="https://www.youtube.com/embed/nT36I4IPhQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style = "width: 50%; height: 30em;"></iframe>
+
+<hr>
+
+<div class = "imgSpace">
+<div class = "alignright">
+<h3>Manure-Management Plus</h3> <img src = "mushroom_manure.jpg" style = "width: 50%">
+</div>
+
+<hr>
+
+<div class = "alignleft">
+<h3>Enviro-Management Plus</h3><img src = "forest_enviro.jpg" style = "width: 50%">
+</div>
+
+<hr>
+
+<div class = "alignright">
+<h3>Hydro-Management Plus</h3><img src = "pond_hydro.jpg" style = "width: 50%">
+</div>
+
+<hr>
+
+<div class = "alignleft">
+<h3>Landfill Management Plus</h3><img src = "landfill.jpg" style = "width: 50%">
+</div>
+
+</div>
+</article>
+</body>
+</html>
